@@ -2,7 +2,7 @@
 
 # Search Replace
 
-## Make this script exicutable
+## Make this script executable
 
 `chmod 755 search-replace.sh`
 

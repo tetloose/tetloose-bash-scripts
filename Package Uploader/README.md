@@ -1,6 +1,6 @@
 # Packager
 
-## Make this script exicutable
+## Make this script executable
 
 `chmod 755 package-uploader.sh`
 
